@@ -1,0 +1,1 @@
+# bash-system-info
